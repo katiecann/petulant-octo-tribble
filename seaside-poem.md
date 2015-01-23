@@ -16,5 +16,5 @@ Leaps a gay fragment of some mocking tune,<br>
 That tinkles and laughs and fades along the sand,<br>
 And _dies_ between the seawall and the sea.<br>
 
---*Rupert Brooke*<br>
+--**Rupert Brooke**<br>
   http://www.public-domain-poetry.com/rupert-brooke/seaside-9644
